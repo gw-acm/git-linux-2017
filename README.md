@@ -11,7 +11,7 @@ For more details, take a look at [this guide](https://guides.github.com/activiti
  1. Fork this repository to your own account by clicking the button near the top-right of this page. 
  2.  Clone the repository onto your local machine by running `git clone https://github.com/phil-lopreiato/git-workshop.git` and then enter the project directory (`cd git-workshop`)
  3. Create a new local branch in your terminal for your feature (`git checkout -b my-feature`)
- 4. Make your changes (implement a funcition in [HelloGit.java](https://github.com/gw-acm/git-linux-17/blob/master/HelloGit.java))
+ 4. Make your changes (implement a funcition in [HelloGit.java](https://github.com/gw-acm/git-linux-2017/blob/master/HelloGit.java))
  5. Commit your changes (`git add SimpleCalculator.java` and `git commit`)
  6. Push your changes to your fork on GitHub (`git push`)
  7. [Submit a pull request](https://github.com/gw-acm/git-linux-2017/compare) to this repository to get your changed merged in
