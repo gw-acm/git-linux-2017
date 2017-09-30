@@ -14,7 +14,7 @@ For more details, take a look at [this guide](https://guides.github.com/activiti
  4. Make your changes (use vim to make a .txt file with your name `vim
    myname.txt`)
  
- 5. Add and commit your changes (`git add HelloGit.java` and `git commit -m "<descriptive message>"`)
+ 5. Add and commit your changes (`git add myname.txt` and `git commit -m "<descriptive message>"`)
  
  6. Push your changes to your fork on GitHub (`git push`)
  
