@@ -1,5 +1,5 @@
 
-This repository goes along with the [Git + Linux](https://acm.seas.gwu.edu/ws/gitindex.html) workshop.
+This repository goes along with the [Git + Linux](http://acm.seas.gwu.edu/ws/git-linux-17/index.html) workshop.
 See our [Git cheatsheet/workflows](https://acm.seas.gwu.edu/ws/git-linux-17/git-cheats) and our [Linux cheatsheet](https://acm.seas.gwu.edu/ws/git-linux-17/linux-cheats) for full syntax details and information.
 
 ## How to fork this repository and submit a Pull Request (PR)
