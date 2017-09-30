@@ -2,7 +2,6 @@
 This repository goes along with the [Git + Linux](https://acm.seas.gwu.edu/ws/git-linux-17) workshop.
 See our [Git cheatsheet/workflows](https://acm.seas.gwu.edu/ws/git-linux-17/git-cheats) and our [Linux cheatsheet](https://acm.seas.gwu.edu/ws/git-linux-17/linux-cheats) for full syntax details and information.
 
-#Git Tasks
 ## How to fork this repository and submit a Pull Request (PR)
 For more details, take a look at [this guide](https://guides.github.com/activities/forking/)
 
