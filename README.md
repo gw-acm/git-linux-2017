@@ -5,10 +5,7 @@ header: This is fancy
 geometry: margin = 1in
 ---
 This repository goes along with the [Git + Linux](https://acm.seas.gwu.edu/ws/git-linux-17) workshop.
-See our [Git cheatsheet/workflows](https://acm.seas.gwu.edu/ws/git-linux-17/git-cheats) and our [Linux cheatsheet](https://acm.seas.gwu.edu/ws/git-linux-17/linux-cheats) for more information.
-
-#Linux Tasks
-## Basic commands
+See our [Git cheatsheet/workflows](https://acm.seas.gwu.edu/ws/git-linux-17/git-cheats) and our [Linux cheatsheet](https://acm.seas.gwu.edu/ws/git-linux-17/linux-cheats) for full syntax details and information.
 
 #Git Tasks
 ## How to fork this repository and submit a Pull Request (PR)
@@ -20,16 +17,15 @@ For more details, take a look at [this guide](https://guides.github.com/activiti
  
  3. Enter the project directory (`cd git-linux-2017`)
  
- 4. Create a new local branch in your terminal for your feature (`git checkout -b my-feature`)
+ 4. Make your changes (use vim to make a .txt file with your name `vim
+   myname.txt`)
  
- 5. Make your changes (implement a funcition in [HelloGit.java](https://github.com/gw-acm/git-linux-2017/blob/master/HelloGit.java))
+ 5. Add and commit your changes (`git add HelloGit.java` and `git commit -m "<descriptive message>"`)
  
- 6. Commit your changes (`git add HelloGit.java` and `git commit -m "<descriptive message>"`)
+ 6. Push your changes to your fork on GitHub (`git push`)
  
- 7. Push your changes to your fork on GitHub (`git push`)
+ 7. [Submit a pull request](https://github.com/gw-acm/git-linux-2017/compare) to this repository to get your changed merged in
  
- 8. [Submit a pull request](https://github.com/gw-acm/git-linux-2017/compare) to this repository to get your changed merged in
- 
- 9. Listen to and incorporate feedback from maintainers who review your pull request. When they're ready, they'll merge the changes
+ 8. Listen to and incorporate feedback from maintainers who review your pull request. When they're ready, they'll merge the changes
 
 Congratulations! You have now contributed code to an open source project over GitHub!
